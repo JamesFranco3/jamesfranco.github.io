@@ -32,3 +32,5 @@ Aerospace Propulsion Craftsman
 
 ### Projects
 U.S. General Services Administration - Region 9 Energy and Sustainability Dashboard
+
+![Image](https://github.com/user-attachments/assets/c9e2f58a-25fc-4048-a0e4-6de86ad56714)
