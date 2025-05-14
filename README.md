@@ -25,7 +25,7 @@ United States Air Force Reserve (06/2013 - Present)
 
 Technical Sergeant (TSgt), Aerospace Propulsion Craftsman
 
--Maintained and repaired complex aerospace propulsion systems, demonstrating technical problem-solving and diagnostics skills.
--Utilized technical manuals and tools for troubleshooting mechanical and electronic issues, showcasing analytical skills and attention to detail.
--Adhered to strict maintenance and safety protocols, ensuring compliance and accurate documentation.
--Collaborated within a team to ensure aircraft readiness, highlighting teamwork and communication abilities.
+- Maintained and repaired complex aerospace propulsion systems, demonstrating technical problem-solving and diagnostics skills.
+- Utilized technical manuals and tools for troubleshooting mechanical and electronic issues, showcasing analytical skills and attention to detail.
+- Adhered to strict maintenance and safety protocols, ensuring compliance and accurate documentation.
+- Collaborated within a team to ensure aircraft readiness, highlighting teamwork and communication abilities.
