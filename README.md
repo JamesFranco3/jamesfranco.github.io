@@ -1,5 +1,7 @@
 # System Programmer
 
+### Technical Skills: C#, ASP.NET, SQL, JavaScript, Google Apps Script, Tableau, Agile
+
 ### Education
 B.S. Computer Science
 
