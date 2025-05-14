@@ -7,6 +7,7 @@ Bachelor’s Degree in Computer Science
 
 ### Work Experience
 U. S. General Services Administration (GSA)
+
 Management and Program Analyst (09/2016 - 02/2025)
 - Led and executed 160+ federal building energy projects, achieving 96% DOE compliance through effective tracking, strategic oversight, and ensuring accurate payments and invoicing to comply with policy.
 - Designed and managed a regional energy performance dashboard to track energy goals, analyze carbon pollution-free electricity (CFE) options, and visualize KPIs, leveraging Tableau and Google Scripts. Acted as a technical advisor for automation and reporting.
